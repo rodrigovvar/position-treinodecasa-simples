@@ -1,0 +1,27 @@
+#verde{
+	background-color: green;
+	width: 100%;
+	height:1400px; 
+	position: relative;
+
+}
+#amarelo{
+	background: yellow;
+	width: 400px;
+	height:1400px;
+	position: absolute;
+	top: 0;
+	right:0; 
+	
+}
+#azul{
+	background-color: blue;
+	width: 400px;
+	height:200px;
+	right:0; 
+	top:0;
+	position: fixed;
+}
+body{
+	margin: 0;
+}
